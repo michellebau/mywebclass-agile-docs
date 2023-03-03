@@ -1,6 +1,7 @@
-# Initiative: insert Title
+# Initiative: Basic Webpage Template
 ## Description
-## Epics
+
+## Epic
 * [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
 * Epic 2
 ## Test plan
