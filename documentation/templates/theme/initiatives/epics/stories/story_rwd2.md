@@ -10,4 +10,4 @@ The RWD framework is suitable for our project's needs.
 The RWD framework functions and won't be out of commission in the near future.
 
 # List tasks related to this user story
-1. [Choose a responsive web design framework to use for the project.](documentation/templates/theme/initiatives/epics/stories/tasks/task_rwd2_story1.md)
+1. [Choose a responsive web design framework to use for the project.](/documentation/templates/theme/initiatives/epics/stories/tasks/task_rwd2_story1.md)

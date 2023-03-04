@@ -14,4 +14,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List tasks related to this user story
-1. [Task 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Task 1](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

@@ -5,4 +5,4 @@ Acceptance Criteria:
 The website complies with every individual relevant legal requirement found by team members.
 
 # List tasks related to this user story
-1. [Research relevant legal requirements and ensure that the website complies with them.](documentation/templates/theme/initiatives/epics/stories/tasks/task_webtemplate2_story1.md)
+1. [Research relevant legal requirements and ensure that the website complies with them.](/documentation/templates/theme/initiatives/epics/stories/tasks/task_webtemplate2_story1.md)
