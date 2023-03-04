@@ -7,4 +7,4 @@ The appropriate components of the website are clickable and lead to the appropri
 The website is accessible to users from search engines and from direct HTTP requests within Internet browsers.
 
 # List tasks related to this user story
-1. [Test the website on various devices and ensure that it looks and functions correctly.](documentation/templates/theme/initiatives/epics/stories/tasks/task_rwd1_story1.md)
+1. [Test the website on various devices and ensure that it looks and functions correctly.](/documentation/templates/theme/initiatives/epics/stories/tasks/task_rwd1_story1.md)

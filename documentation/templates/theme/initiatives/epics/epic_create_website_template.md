@@ -33,6 +33,6 @@ Business Value: infinite - this is the foundation of our project
 Priority: High
 
 # List stories related to this epic
-1. [As a project stakeholder, I want to create a basic website that is easily accessible and can be found quickly through search engines.](../../templates/theme/initiatives/epics/stories/story_webtemplate1.md)
+1. [As a project stakeholder, I want to create a basic website that is easily accessible and can be found quickly through search engines.](/documentation/templates/theme/initiatives/epics/stories/story_webtemplate1.md)
 2. [As a team member, I want the website to comply with relevant legal requirements, such as GDPR and accessibility guidelines so that we can avoid legal issues.](/documentation/templates/theme/initiatives/epics/stories/story_webtemplate2.md)
-3. [As a team member, I want to ensure that the website template passes w3c validation, Lighthouse, and GDPR Scanner, so that the website is accessible, performs well, and complies with GDPR regulations.](documentation/templates/theme/initiatives/epics/stories/story_webtemplate3.md)
+3. [As a team member, I want to ensure that the website template passes w3c validation, Lighthouse, and GDPR Scanner, so that the website is accessible, performs well, and complies with GDPR regulations.](/documentation/templates/theme/initiatives/epics/stories/story_webtemplate3.md)

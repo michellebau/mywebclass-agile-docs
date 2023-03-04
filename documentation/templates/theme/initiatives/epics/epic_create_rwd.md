@@ -38,5 +38,5 @@ Business Value: infinite - a responsive web design increases the chance of users
 Priority: High
 
 # List stories related to this epic
-1. [As a user, I want the website to be responsive, so that I can access it on any device and have a consistent experience.](documentation/templates/theme/initiatives/epics/stories/story_rwd1.md)
-2. [As a team member, I want to use a responsive web design framework such as Bootstrap or Foundation, so that we can build the website quickly and efficiently.](documentation/templates/theme/initiatives/epics/stories/story_rwd2.md)
+1. [As a user, I want the website to be responsive, so that I can access it on any device and have a consistent experience.](/documentation/templates/theme/initiatives/epics/stories/story_rwd1.md)
+2. [As a team member, I want to use a responsive web design framework such as Bootstrap or Foundation, so that we can build the website quickly and efficiently.](/documentation/templates/theme/initiatives/epics/stories/story_rwd2.md)
