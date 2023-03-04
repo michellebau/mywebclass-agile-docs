@@ -18,13 +18,13 @@ Dependencies:
 * Definition of user behavior metrics: Before implementing Google Analytics, it's important to define the specific user behavior metrics that need to be tracked, such as page views, bounce rate, and conversion rates.
 
 Risks:
-* Technical complexity: The process of creating a basic website template can be technically complex, especially if the template needs to be customizable or meet specific requirements. This could lead to delays or quality issues.
-* Conduct a thorough requirement analysis: Before starting the development of the website template, conduct a thorough analysis of the project requirements to identify potential technical challenges and ensure that the team has the necessary expertise and resources to address them.
-* Conduct frequent testing: To ensure that the website template meets technical and design requirements, conduct frequent testing throughout the development process, using tools such as browser compatibility checkers and accessibility validators.
-* Prioritize user/peer feedback: Throughout the development process, prioritize user/peer feedback to ensure that the website template meets the needs of the target audience and provides a positive user experience.
+* Risk 1 - Technical complexity: The process of creating a basic website template can be technically complex, especially if the template needs to be customizable or meet specific requirements. This could lead to delays or quality issues.
+* Mitigation strategy 1 - Conduct a thorough requirement analysis: Before starting the development of the website template, conduct a thorough analysis of the project requirements to identify potential technical challenges and ensure that the team has the necessary expertise and resources to address them.
+* Mitigation strategy 2 - Conduct frequent testing: To ensure that the website template meets technical and design requirements, conduct frequent testing throughout the development process, using tools such as browser compatibility checkers and accessibility validators.
+* Mitigation strategy 3 - Prioritize user/peer feedback: Throughout the development process, prioritize user/peer feedback to ensure that the website template meets the needs of the target audience and provides a positive user experience.
 
-* Legal compliance issues: Creating a website template that meets legal requirements can be challenging, especially with regards to data privacy regulations and accessibility guidelines. Failure to comply with these requirements could lead to legal issues and damage to the reputation of the organization.
-* Research data privacy regulations and accessibility guidelines.
+* Risk 2 - Legal compliance issues: Creating a website template that meets legal requirements can be challenging, especially regarding data privacy regulations and accessibility guidelines. Failure to comply with these requirements could lead to legal issues and damage to the reputation of the organization.
+* Mitigation strategy 1 - Research data privacy regulations and accessibility guidelines.
 
 Estimated Effort: 2-4 weeks
 
@@ -33,6 +33,6 @@ Business Value: infinite - this is the foundation of our project
 Priority: High
 
 # List stories related to this epic
-1. [As a project stakeholder, I want to create a basic website that is easily accessible and can be found quickly through search engines.](documentation/templates/theme/initiatives/epics/stories/story_webtemplate1.md)
-2. [As a team member, I want the website to comply with relevant legal requirements, such as GDPR and accessibility guidelines so that we can avoid legal issues.](documentation/templates/theme/initiatives/epics/stories/story_webtemplate2.md)
+1. [As a project stakeholder, I want to create a basic website that is easily accessible and can be found quickly through search engines.](../../templates/theme/initiatives/epics/stories/story_webtemplate1.md)
+2. [As a team member, I want the website to comply with relevant legal requirements, such as GDPR and accessibility guidelines so that we can avoid legal issues.](/documentation/templates/theme/initiatives/epics/stories/story_webtemplate2.md)
 3. [As a team member, I want to ensure that the website template passes w3c validation, Lighthouse, and GDPR Scanner, so that the website is accessible, performs well, and complies with GDPR regulations.](documentation/templates/theme/initiatives/epics/stories/story_webtemplate3.md)
