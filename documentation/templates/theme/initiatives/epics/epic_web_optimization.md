@@ -37,4 +37,4 @@ Business Value: The business value of this epic would be significant as website 
 Priority: Low-med
 
 # List stories related to this epic
-1. [As a project stakeholder, I want to ensure that the website is optimized for user experience and performance, so that learners can access and engage with the material easily and quickly.](/documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [As a project stakeholder, I want to ensure that the website is optimized for user experience and performance, so that learners can access and engage with the material easily and quickly.](/documentation/templates/theme/initiatives/epics/stories/story_weboptimization.md)
