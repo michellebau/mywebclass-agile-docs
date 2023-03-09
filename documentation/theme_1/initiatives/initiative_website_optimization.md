@@ -65,4 +65,4 @@ Dependencies:
 Team: [Identify the team members and their roles in the initiative] 
 
 # List epics related to this theme
-1. [Optimize the Website for User Experience and Performance](/documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Optimize the Website for User Experience and Performance](/documentation/templates/theme/initiatives/epics/epic_web_optimization.md)
